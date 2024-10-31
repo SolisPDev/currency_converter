@@ -13,7 +13,7 @@ Desarrollo de aplicación de conversion de monedas en consola aplicando los cono
 
 ## Imagenes descriptivas
 
-![Corrida](file:///C:/AluraPro/java-orientado-objetos/currency_converter/pantalla.png)
+![Corrida](https://github.com/user-attachments/assets/7a429964-bda3-4b83-9d12-b3e7e3252513)
 
 
 
